@@ -10,21 +10,23 @@
 
 ## 🚀 About Me
 <p align="center">
-  Hi, I'm Meng Huang! am an aspiring Data Analyst in SINGAPORE.
+  Hi, I'm Meng Huang! An aspiring Data Analyst in SINGAPORE.
   <br>
   <br>
   👋Currently I am actively pursuing professional development in the field of Data Science. I have completed several courses and have had the opportunity to work on several data science projects. I am eager to continue to learn and grow in this field and am actively seeking the role of Data Analyst & Data Engineer.
 
 
 ## 🛠 Skills
-Data Analytics with SQL,
-BigQuery, Pandas, Numpy, and Matplotlib; Statistics with Scipy, Seaborn and Statsmodels;
-Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras;
-and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
+<p align="center">
+  Data Analytics with SQL,
+  BigQuery, Pandas, Numpy, and Matplotlib; Statistics with Scipy, Seaborn and Statsmodels;
+  Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras;
+  and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poongmenghuang/)
+## 📫 How to reach me
+<p align="center">
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poongmenghuang/)
 
 
 ## Other Common Github Profile Sections
@@ -37,8 +39,6 @@ and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and
 🤔 I'm looking for help with...
 
 💬 Ask me about...
-
-📫 How to reach me...
 
 😄 Pronouns...
 
