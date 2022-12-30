@@ -22,8 +22,8 @@
   BigQuery, Pandas, Numpy, and Matplotlib; Statistics with Scipy, Seaborn and Statsmodels;
   Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras;
   and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
-  
-  
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 ## 📫 How to reach me
