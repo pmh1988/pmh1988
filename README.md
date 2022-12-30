@@ -1,11 +1,10 @@
 <!-- ![Logo](https://images.ctfassets.net/wfutmusr1t3h/35IdEm8yKR4Z9uuL39k7Ya/52fa91f78eb8d01d152024085521d5e6/universe-2022-partner-connect.png?w=1280&q=75) -->
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+MengHuang;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Meng Huang;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+MengHuang;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
 
