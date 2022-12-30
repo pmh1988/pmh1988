@@ -2,8 +2,8 @@
 
 
 ## 🚀 About Me
-Hi, I'm Meng Huang! 👋I'm an aspiring Data Analyst in Singapore.
-Currently seeking roles in Data Analyst/ Data Engineer
+Hi, I'm Meng Huang! am an aspiring Data Analyst in Singapore.
+👋 Currently seeking roles in Data Analyst/ Data Engineer
 
 
 ## 🛠 Skills
@@ -14,9 +14,7 @@ and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poongmenghuang/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ## Other Common Github Profile Sections
