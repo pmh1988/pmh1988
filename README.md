@@ -9,8 +9,11 @@
 </h1>
 
 ## 🚀 About Me
-Hi, I'm Meng Huang! am an aspiring Data Analyst in Singapore.
-👋 Currently seeking roles in Data Analyst/ Data Engineer
+<p align="center">
+  Hi, I'm Meng Huang! am an aspiring Data Analyst in SINGAPORE.
+  <br>
+  <br>
+  👋Currently I am actively pursuing professional development in the field of Data Science. I have completed several courses and have had the opportunity to work on several data science projects. I am eager to continue to learn and grow in this field and am actively seeking the role of Data Analyst & Data Engineer.
 
 
 ## 🛠 Skills
