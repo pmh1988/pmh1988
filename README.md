@@ -14,6 +14,7 @@
   <br>
   <br>
   👋Currently I am actively pursuing professional development in the field of Data Science. I have completed several courses and have had the opportunity to work on several data science projects. I am eager to continue to learn and grow in this field and am actively seeking the role of Data Analyst & Data Engineer.
+  
   👩‍💻 I'm currently working on improving the quality of my python code to make it more succint and readable that is easier for others to understand.
 
   🧠 I'm love math, programming, data science and books
