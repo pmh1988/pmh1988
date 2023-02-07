@@ -30,10 +30,10 @@
 <p align="center"> <a href="https://www.linkedin.com/in/poongmenghuang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:poongmenghuang.63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://www.facebook.com/poong.menghuang"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/pmh1988/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> <a href="https://t.me/poongmenghuang"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
 
 ## Other Common Github Profile
-  👩‍💻 I'm currently working on improving the quality of my python code to make it more succint and readable that is easier for others to understand.
+  👩‍💻 Right now, I'm working on making my Python code better - shorter, simpler, and easier for others to understand. Basically, I want to write code that's a breeze to work with
 
-  🧠 I'm love math, programming, data science and books
+  🧠 I'm passionate about math, programming, data science, and reading books
 
-  🤔 I'm addicted to learning and growing everyday
+  🤔 I'm obsessed with constantly learning and growing every day
 
-  💬 Feel free to ask me about anything!
+  💬 Don't hesitate to reach out to me using the contact information listed above
