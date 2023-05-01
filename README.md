@@ -36,4 +36,4 @@
 
   🤔 I'm obsessed with constantly learning and growing every day
 
-  💬 Don't hesitate to reach out to me using the contact information listed above
+  💬 Hey, let's connect on Linkedin! Feel free to add me and don't hesitate to reach out if you need a copy of my resume. I'm excited to connect with you!
